@@ -18,3 +18,4 @@ The primary data source of Data used here is from the Palmora management team
     -Visualization on power BI
 
 ## Analysis file
+"scr="https://github.com/nichorle/PALMORA-GROUP-HR-ANALYSIS-SUMMARIZATION/commit/734bd8eac93aef881747f2b6f3e8d1074cdbcbb0"
