@@ -27,3 +27,17 @@ https://github.com/nichorle/PALMORA-GROUP-HR-ANALYSIS-SUMMARIZATION/commit/734bd
 
 Palmoria Group according to analysis did'nt meet up to pay employees a minimum of $90,000
 
+## About me
+*OWOLABI Atinuke Oluwatoyin*
+
+Hotelier | Data Analyst | Enterprenuer| 
+
+**I am an Entreprenuer who has build a thriving hospitality business and also who has find herself in the data world as a Data Analyst.**
+
+
+## Contact
+*-Email: atinuke.sam@gmail.com*
+
+*-Phone Number: ‪+2348035656038‬*
+
+**Linkedin: https://www.linkedin.com/in/atinuke-owolabi 
