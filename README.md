@@ -19,3 +19,11 @@ The primary data source of Data used here is from the Palmora management team
 
 ## Analysis file
 https://github.com/nichorle/PALMORA-GROUP-HR-ANALYSIS-SUMMARIZATION/commit/734bd8eac93aef881747f2b6f3e8d1074cdbcbb0
+
+
+## Findings:
+
+-Palmoria Group is indeed having gender inequality challenges.
+
+Palmoria Group according to analysis did'nt meet up to pay employees a minimum of $90,000
+
